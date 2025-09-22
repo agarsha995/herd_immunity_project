@@ -1,12 +1,8 @@
 # Herd Immunity Project
 
 This is a project for the HPC-05 Programming Lab "Disease Simulation".
-# Herd Community Project
-# Herd Immunity Project
 
-
-
-## Getting started
+# Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
