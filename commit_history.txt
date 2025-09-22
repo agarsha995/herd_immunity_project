@@ -1,0 +1,307 @@
+commit 54f5d5c7431775705f3520cdb9a456c3d4475849 (HEAD -> main, origin/main, origin/HEAD)
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 19 17:05:30 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit ae8993a2dca47de7e13c312028631c841a89e63e
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 19 16:46:02 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit 0e61796ab070e3de69155dbf66c8787d9bda3567
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 19 16:43:47 2025 +0100
+
+    Update .gitlab-ci.yml
+
+commit f2e311c3bd31e7f7dd5482af29a09c16396cce52
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 19 14:22:33 2025 +0100
+
+    modified  csv files
+
+commit 65534c1eae8ce4c5cac856f844b51835af52773d
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 19 13:37:38 2025 +0100
+
+    updated build folder
+
+commit 18a06933b6dd523fee89e98c8cab30d318c85ee1
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 19 13:27:05 2025 +0100
+
+    Average and Standard Deviation
+
+commit 3187d0b5c1fbd156f588ba49140c05f5feae2ce1
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Jan 14 20:18:22 2025 +0100
+
+    build folder
+
+commit 05fbfb759c8ffc7483a44c6959d366fd1e63ecd2
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Jan 14 20:07:00 2025 +0100
+
+    ci/cd new
+
+commit 59235d6b0344b727baf4c1b38f6182b54e66d3eb
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Jan 14 20:00:21 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit 035f0ec598bb5f35363fdcd83b01c6d4587b491a
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Jan 14 19:59:44 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit 49d46f7d16739147f2cca036b1aac2aa3a07502e
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Jan 14 19:57:03 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit 9e654f81bed26f50fcbc7002439a9c402ac7ab22
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Jan 14 19:50:36 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit 7756576de9f8b1132cd6a19c57b5c349e0c0af50
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 12 12:11:11 2025 +0100
+
+    rechecking of final code
+
+commit bae5f3ab7344d4ecaf6c6b4432525629ba9bd649
+Merge: c80d7c4 c585ce1
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 23:10:50 2025 +0100
+
+    Merge remote-tracking branch 'origin/main'
+
+commit c80d7c462fb08efc38bb3a228602f129d7272754
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 23:02:48 2025 +0100
+
+    Docker file and final project
+
+commit c585ce1ee9720a6b9f42dd8839daba802fffa94d
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 22:26:27 2025 +0100
+
+    Delete .gitlab-ci.yml
+
+commit dcc9f80595bdd487bf930ad71b24fbe6161e1977
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 22:12:52 2025 +0100
+
+    updated CI/CD
+
+commit 92d13db5af22b8efdce839a8fe171edcb06ca964
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 22:02:39 2025 +0100
+
+    CI/CD
+
+commit 192b39a62366a8ae3a5cf788a87d646fbbc8f7f4
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 21:53:32 2025 +0100
+
+    CI/CD
+
+commit 6db0222c5c2c4fa40890dbdebc2aa7ad99edbc8c
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 21:52:15 2025 +0100
+
+    CI/CD
+
+commit 2c4463e185ba2e27dfa3ad12572432459131291c
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 21:38:20 2025 +0100
+
+    CI/CD
+
+commit e888047d7ad0049f4e8a457ab84a197fee74f841
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 21:30:36 2025 +0100
+
+    CI/CD
+
+commit bb69ef29353e1131db803cc602119a88f9e05b38
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Jan 10 21:23:28 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit 9c25f5b9e85a14bc5fd467b31d0a9f7f27d6bbbc
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 5 20:33:12 2025 +0100
+
+    Updated testcoverage file and run using make
+
+commit f61d68444935029473b84a9ee2feb754aa845eb8
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Jan 5 20:27:26 2025 +0100
+
+    build and cmake
+
+commit 10b87728f8a58d1c0e06d39c3802725bd32fc417
+Merge: 39b85c7 59149e4
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Jan 1 15:06:55 2025 +0100
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+commit 59149e419e9bdb2a8086f37fca4a8979282030d5
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Jan 1 14:54:25 2025 +0100
+
+    Delete .gitlab-ci.yml
+
+commit 39b85c7df293cde6ebd905636e03a125b7e62862
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Jan 1 14:49:58 2025 +0100
+
+    Testcase for simulation.cpp
+
+commit a3bb6b9a2b5d189c3785c133414d4f72a7ca0d42
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Jan 1 14:02:40 2025 +0100
+
+    Update .gitlab-ci.yml file
+
+commit 6bf5be90c26a4375666583ebebe026352730516d
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Jan 1 13:53:13 2025 +0100
+
+    Final Output with modifications
+
+commit 721eca229050bdfccd45145285b1f7bf5e74003c
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Thu Dec 26 22:29:48 2024 +0100
+
+    This is the final output with status
+
+commit 23e6e459a50c6ca011c1da6407bc0bad52668209
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Dec 22 19:15:41 2024 +0100
+
+    report
+
+commit 15e9113018836ed29250e50eb4fa20da5d18e1c0
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Dec 20 20:29:46 2024 +0100
+
+    report final
+
+commit 36117ae8f430cc82744ce1f1d0b668376970343d
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Dec 18 21:16:27 2024 +0100
+
+    report WIP
+
+commit 84aafad526adcf94cc28363ea7ad15bdc6b698b8
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Dec 18 16:42:24 2024 +0100
+
+    report work in progress
+
+commit b8904783b326e407f1e088e8de1b6d06bcfb1c5f
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Dec 18 12:52:26 2024 +0100
+
+    timestep plot chart
+
+commit ed427c8f5dc661b62824081c4c4659e86c9a1cbd
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Sun Dec 15 15:11:18 2024 +0100
+
+    file read and graph prepared
+
+commit c3f8e1f60284e77e48dfbf8ccf1d93357898f5c9
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Dec 11 20:11:47 2024 +0100
+
+    updated the output
+
+commit 8f15e4d502d3cc93a71995fc0abb473b549bcc6a
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Thu Nov 21 20:50:34 2024 +0100
+
+    cross WIP
+
+commit 64ade77391c172d28bdfde28adc4cf867c30effe
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Mon Nov 18 20:29:05 2024 +0100
+
+    patient setting and cross contamination
+
+commit ccbf2b4e048658f2d23e0245b198c0fab44e793c
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Thu Nov 14 20:48:26 2024 +0100
+
+    file read
+
+commit df947cc57a4aaa497a32b09550f080965abf3fa5
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Thu Nov 14 19:15:59 2024 +0100
+
+    Multiple population
+
+commit 1e04ebc03afeeb15e401146bf37a36a64f2c4c90
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Nov 13 22:43:54 2024 +0100
+
+    spread the diease
+
+commit 14a1ce2cfd5ad5bd7571901d43d573926ef6bdde
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Fri Nov 8 23:00:38 2024 +0100
+
+    single population until spread dieases
+
+commit 01ad1703dfa4918444ccd717e56a4d5e29e93087
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Nov 6 22:57:44 2024 +0100
+
+    single population initialization
+
+commit c82503138a62f398685a91102f8577a92758e919
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Nov 5 22:27:41 2024 +0100
+
+    initial setup
+
+commit a016049ec106eb858de217b3fe794c003c6d838d
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Oct 30 18:19:48 2024 +0100
+
+    Update README.md
+
+commit 3fa505bc1b9cb07318242e20837e8060a98e8c1b
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Oct 30 18:13:27 2024 +0100
+
+    Initial commit
+...skipping...
+commit c82503138a62f398685a91102f8577a92758e919
+Author: at24321 <agarsha.thettayil@stud.th-deg.de>
+Date:   Tue Nov 5 22:27:41 2024 +0100
+
+    initial setup
+
+commit a016049ec106eb858de217b3fe794c003c6d838d
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Oct 30 18:19:48 2024 +0100
+
+    Update README.md
+
+commit 3fa505bc1b9cb07318242e20837e8060a98e8c1b
+Author: Agarsha Thettayil <agarsha.thettayil@stud.th-deg.de>
+Date:   Wed Oct 30 18:13:27 2024 +0100
+
+    Initial commit

@@ -1,0 +1,35 @@
+stages:
+  - build
+  - test
+  - deploy
+
+image: debian:bookworm
+
+build-job:
+  stage: build
+  script:
+    - echo "Setting up build environment..."
+    - apt update && apt install -y cmake make g++ build-essential
+    - echo "Cleaning up previous build..."
+    - rm -rf build
+    - mkdir -p build
+    - cd build
+    - echo "Running cmake..."
+    - cmake ..
+    - echo "Compiling the project..."
+    - make
+    - echo "Build completed successfully."
+
+unit-test-job:
+  stage: test
+  script:
+    - echo "Running unit tests..."
+    - ./build/test
+    - echo "Unit tests completed successfully."
+
+deploy-job:
+  stage: deploy
+  environment: production
+  script:
+    - echo "Deploying the application..."
+    - echo "Application successfully deployed."
